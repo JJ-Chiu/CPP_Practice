@@ -8,7 +8,7 @@
                 "-fcolor-diagnostics",
                 "-fansi-escape-codes",
                 "-g",
-                "${workspaceFolder}/main.cpp",
+                "${workspaceFolder}/Class/main.cpp",
                 "-o",
                 "${workspaceFolder}/a.out"
             ],
