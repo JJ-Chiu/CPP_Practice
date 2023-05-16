@@ -10,7 +10,7 @@
                 "-g",
                 "${workspaceFolder}/Class/main.cpp",
                 "-o",
-                "${workspaceFolder}/a.out"
+                "${workspaceFolder}/out/a.out"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
